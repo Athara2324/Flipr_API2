@@ -1,0 +1,17 @@
+{
+  "name": "flipr_backend_api_2",
+  "version": "1.0.0",
+  "description": "Flipr Backend project API 2",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Atharva Jadhav",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2",
+    "fs": "^0.0.1-security",
+    "https": "^1.0.0"
+  }
+}
